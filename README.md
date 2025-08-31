@@ -1,14 +1,9 @@
-\# Instagram User Analysis for Marketing Strategy
+# Instagram User Analysis for Marketing Strategy
 
-
-
-!\[Project Status](https://img.shields.io/badge/status-completed-green)
-
-!\[Project Score](https://img.shields.io/badge/score-9/10-brightgreen)
-
-!\[SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-
-!\[Tools](https://img.shields.io/badge/Tools-Gamma\_AI-orange)
+![Project Status](https://img.shields.io/badge/status-completed-green)
+![Project Score](https://img.shields.io/badge/score-9/10-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Tools](https://img.shields.io/badge/Tools-Gamma_AI-orange)
 
 
 
